@@ -2,7 +2,8 @@
 "use client";
 import Image from "next/image";
 import React from "react";
-import { TypeAnimation } from "react-type-animation";
+import { TypeAnimation } from 'react-type-animation';
+
 
 const HeroSection = () => {
   return (
