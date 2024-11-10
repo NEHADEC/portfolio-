@@ -32,11 +32,11 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            "I am a multi-disciplinary developer with expertise in UI/UX design,
-            web development, and game development. My passion lies in creating
-            seamless user experiences and designing intuitive interfaces that
-            are not only functional but also visually appealing..."
-          </p>
+  &quot;I am a multi-disciplinary developer with expertise in UI/UX design,
+  web development, and game development. My passion lies in creating
+  seamless user experiences and designing intuitive interfaces that
+  are not only functional but also visually appealing...&quot;
+</p>
           <div>
             {/* Hire Me button - Links to the Contact Form */}
             <a href="#ContactForm" id="hire-me-button">
